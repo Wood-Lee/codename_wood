@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome</title>
+		<title>Welcome to the codename wood world</title>
 	</head> 
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
